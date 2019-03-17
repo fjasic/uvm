@@ -1,0 +1,217 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Korisnik/Desktop/uvmprimer-master/uvmprimer-master/10_An_Object_Oriented_Testbench
+Esingle_cycle
+Z1 w1552784146
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z6 8tinyalu_dut/single_cycle_add_and_xor.vhd
+Z7 Ftinyalu_dut/single_cycle_add_and_xor.vhd
+l0
+L18
+VF>CPTFIQXLm?5MnHo`cEB0
+!s100 0MSKZLFVK8NzaZbd6dJ4<2
+Z8 OL;C;10.4e;61
+32
+Z9 !s110 1552784537
+!i10b 1
+Z10 !s108 1552784537.000000
+Z11 !s90 -reportprogress|300|-f|dut.f|
+Z12 !s107 tinyalu_dut/tinyalu.vhd|tinyalu_dut/three_cycle_mult.vhd|tinyalu_dut/single_cycle_add_and_xor.vhd|
+!i113 0
+Z13 tExplicit 1
+Aadd_and_xor
+R2
+R3
+R4
+R5
+Z14 DEx4 work 12 single_cycle 0 22 F>CPTFIQXLm?5MnHo`cEB0
+l40
+L35
+VHjjl7O0X_=e>I?RGEJazJ0
+!s100 e2IJm>E^6z_1G;W4L6?cJ1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+Ethree_cycle
+Z15 w1531405849
+R3
+R4
+R5
+R0
+Z16 8tinyalu_dut/three_cycle_mult.vhd
+Z17 Ftinyalu_dut/three_cycle_mult.vhd
+l0
+L21
+V2CLIzg4;;lTT=^3B3ldGA2
+!s100 OWV05@_zBTOgIT[g_`@_V3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+Amult
+R3
+R4
+R5
+Z18 DEx4 work 11 three_cycle 0 22 2CLIzg4;;lTT=^3B3ldGA2
+l41
+L37
+VASJ[Kg[d^Wn=Y0XJ[N8^M1
+!s100 K_ZLdTS5BO0V_C<=]@faG2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+Etinyalu
+Z19 w1552783834
+R3
+R4
+R5
+R0
+Z20 8tinyalu_dut/tinyalu.vhd
+Z21 Ftinyalu_dut/tinyalu.vhd
+l0
+L18
+Ve<1LSb;IMzaY>V^[dWNkL3
+!s100 IQSjkHCU25DWoNfhGl_?11
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+Artl
+R18
+R2
+R14
+DEx4 work 7 tinyalu 0 22 e<1LSb;IMzaY>V^[dWNkL3
+R3
+R4
+R5
+l89
+L40
+Vjb2B1=;Pb`NQ^hOAjh3e?2
+!s100 BBH]@RRi>zBMdb;2io[;I0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+Ytinyalu_bfm
+Z22 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z23 DXx4 work 11 tinyalu_pkg 0 22 `BWQ<h?g[8:TDiHmY>UfW1
+R9
+!i10b 1
+!s100 W4Td__T5>hM9V0Q2kkBOW2
+Ib6J5Sjn4kRkIj:E`VzO>c2
+Z24 VDg1SIo80bB@j0V0VzS_@n1
+!s105 tinyalu_bfm_sv_unit
+S1
+R0
+w1552784316
+8tinyalu_bfm.sv
+Ftinyalu_bfm.sv
+Z25 L0 16
+Z26 OL;L;10.4e;61
+r1
+!s85 0
+31
+R10
+Z27 !s107 tinyalu_macros.svh|tb_classes/testbench.svh|tb_classes/scoreboard.svh|tb_classes/tester.svh|tb_classes/coverage.svh|top.sv|tinyalu_bfm.sv|tinyalu_pkg.sv|
+Z28 !s90 -reportprogress|300|-f|tb.f|
+!i113 0
+Z29 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z30 !s92 +incdir+tb_classes -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Xtinyalu_pkg
+R22
+R9
+!i10b 1
+!s100 gRA5JOM[2lSboFERag7oO0
+I`BWQ<h?g[8:TDiHmY>UfW1
+V`BWQ<h?g[8:TDiHmY>UfW1
+S1
+R0
+w1552784530
+8tinyalu_pkg.sv
+Ftinyalu_pkg.sv
+Ftb_classes/coverage.svh
+Ftb_classes/tester.svh
+Ftb_classes/scoreboard.svh
+Ftb_classes/testbench.svh
+R25
+R26
+r1
+!s85 0
+31
+R10
+R27
+R28
+!i113 0
+R29
+R30
+vtop
+R22
+R23
+R9
+!i10b 1
+!s100 FKW5T:>bV>mR]KEIb;OWB2
+I1JC4V>2`1OTSN9:1A3NT30
+R24
+!s105 top_sv_unit
+S1
+R0
+w1552782479
+8top.sv
+Ftop.sv
+Ftinyalu_macros.svh
+R25
+R26
+r1
+!s85 0
+31
+R10
+R27
+R28
+!i113 0
+R29
+R30
+Ttop_optimized
+!s110 1552784538
+VA7X;hh^kXhacM^[_F4VAm0
+04 3 4 work top fast 0
+o+acc +cover=sbfec+tinyalu(rtl).
+ntop_optimized
+OL;O;10.4e;61
