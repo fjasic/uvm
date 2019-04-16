@@ -1,0 +1,292 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/student/Desktop/Dan_8_vezba/13_UVM_Environments
+Efour_cycle
+Z1 w1552926595
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8tinyalu_dut/four_cycle_fun.vhd
+Z6 Ftinyalu_dut/four_cycle_fun.vhd
+l0
+L21
+VoGP`F;7FV80li`MjQ^n6j0
+!s100 OCi5`mCCoAKSHQQ:gNNY:0
+Z7 OL;C;10.5;63
+32
+Z8 !s110 1553103325
+!i10b 1
+Z9 !s108 1553103325.000000
+Z10 !s90 -reportprogress|300|-f|dut.f|
+Z11 !s107 tinyalu_dut/tinyalu.vhd|tinyalu_dut/four_cycle_fun.vhd|tinyalu_dut/three_cycle_mult.vhd|tinyalu_dut/single_cycle_add_and_xor.vhd|
+!i113 0
+Z12 tExplicit 1 CvgOpt 0
+Afun
+R2
+R3
+R4
+Z13 DEx4 work 10 four_cycle 0 22 oGP`F;7FV80li`MjQ^n6j0
+l41
+L37
+Vamc`BGHSjaf?GO^iSKoHZ0
+!s100 Z4JzF@Fd>ik;3lR6cIOCQ3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+Esingle_cycle
+Z14 w1497886913
+R2
+R3
+R4
+R0
+Z15 8tinyalu_dut/single_cycle_add_and_xor.vhd
+Z16 Ftinyalu_dut/single_cycle_add_and_xor.vhd
+l0
+L18
+V:Ij;_;FPLzYGNoHM36T<T3
+!s100 ]zLNLiXkF=5o2aD7`HXaW0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+Aadd_and_xor
+R2
+R3
+R4
+Z17 DEx4 work 12 single_cycle 0 22 :Ij;_;FPLzYGNoHM36T<T3
+l40
+L35
+VjkdVIS:zWWe6YP958^c<?2
+!s100 W:@2=zMKJzNl_P<OV5DfD2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+Ethree_cycle
+R14
+R2
+R3
+R4
+R0
+Z18 8tinyalu_dut/three_cycle_mult.vhd
+Z19 Ftinyalu_dut/three_cycle_mult.vhd
+l0
+L21
+V?b?Bg9gU??:QULD5<blm`3
+!s100 OWV05@_zBTOgIT[g_`@_V3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+Amult
+R2
+R3
+R4
+Z20 DEx4 work 11 three_cycle 0 22 ?b?Bg9gU??:QULD5<blm`3
+l41
+L37
+Vj6cEdRYiFMdX3EY^<VQ851
+!s100 K_ZLdTS5BO0V_C<=]@faG2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+Etinyalu
+Z21 w1553103085
+R2
+R3
+R4
+R0
+Z22 8tinyalu_dut/tinyalu.vhd
+Z23 Ftinyalu_dut/tinyalu.vhd
+l0
+L18
+VE[:oHD5fdaY_Kk8k;2L0L3
+!s100 IQSjkHCU25DWoNfhGl_?11
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+Artl
+R13
+R20
+R17
+DEx4 work 7 tinyalu 0 22 E[:oHD5fdaY_Kk8k;2L0L3
+R2
+R3
+R4
+l106
+L40
+VDlJ>C42ZgZSDBAMK8JCBl3
+!s100 R@gC<Fb<TMFV;VQ81_bQ32
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+Ytinyalu_bfm
+Z24 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z25 DXx6 mtiUvm 7 uvm_pkg 0 22 oMKUklN?>LE6@MJe7=2><1
+Z26 DXx4 work 11 tinyalu_pkg 0 22 _2;e;<:kKR^PB1Ll^1^d60
+R8
+!i10b 1
+!s100 m_YR`24DFZQ7]iBcX5O>f2
+I]MhRN<N[_NAi`ORLHgmm02
+Z27 VDg1SIo80bB@j0V0VzS_@n1
+!s105 tinyalu_bfm_sv_unit
+S1
+R0
+w1553102687
+8tinyalu_bfm.sv
+Ftinyalu_bfm.sv
+Z28 L0 16
+Z29 OL;L;10.5;63
+r1
+!s85 0
+31
+R9
+Z30 !s107 tinyalu_macros.svh|tb_classes/fun_test.svh|tb_classes/fun_tester.svh|tb_classes/add_test.svh|tb_classes/random_test.svh|tb_classes/env.svh|tb_classes/scoreboard.svh|tb_classes/add_tester.svh|tb_classes/random_tester.svh|tb_classes/base_tester.svh|tb_classes/coverage.svh|C:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh|C:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh|C:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh|C:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh|C:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh|C:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh|C:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh|C:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh|C:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh|C:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh|C:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh|C:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh|top.sv|tinyalu_bfm.sv|tinyalu_pkg.sv|
+Z31 !s90 -reportprogress|300|-f|tb.f|
+!i113 0
+Z32 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z33 !s92 +incdir+tb_classes -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z34 tCvgOpt 0
+Xtinyalu_pkg
+!s115 tinyalu_bfm
+R24
+R25
+R8
+!i10b 1
+!s100 :N;og@5E_jEQo[KVlEkZP1
+I_2;e;<:kKR^PB1Ll^1^d60
+V_2;e;<:kKR^PB1Ll^1^d60
+S1
+R0
+w1553103258
+8tinyalu_pkg.sv
+Ftinyalu_pkg.sv
+Z35 FC:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh
+Z36 FC:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh
+Z37 FC:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh
+Z38 FC:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh
+Z39 FC:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh
+Z40 FC:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh
+Z41 FC:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh
+Z42 FC:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh
+Z43 FC:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh
+Z44 FC:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh
+Z45 FC:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh
+Z46 FC:/questasim64_10.5/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh
+Ftb_classes/coverage.svh
+Ftb_classes/base_tester.svh
+Ftb_classes/random_tester.svh
+Ftb_classes/add_tester.svh
+Ftb_classes/scoreboard.svh
+Ftb_classes/env.svh
+Ftb_classes/random_test.svh
+Ftb_classes/add_test.svh
+Ftb_classes/fun_tester.svh
+Ftb_classes/fun_test.svh
+R28
+R29
+r1
+!s85 0
+31
+R9
+R30
+R31
+!i113 0
+R32
+R33
+R34
+vtop
+R24
+R25
+R26
+R8
+!i10b 1
+!s100 EZ7I^0lzLKcn7B[D0[I<<0
+If0jNnaH`EPo@J9[]YKLK=2
+R27
+!s105 top_sv_unit
+S1
+R0
+R14
+8top.sv
+Ftop.sv
+Ftinyalu_macros.svh
+R35
+R36
+R37
+R38
+R39
+R40
+R41
+R42
+R43
+R44
+R45
+R46
+R28
+R29
+r1
+!s85 0
+31
+R9
+R30
+R31
+!i113 0
+R32
+R33
+R34
+Ttop_optimized
+!s110 1553103326
+VHGB>`:If2B?7J=aaV0QLU3
+04 3 4 work top fast 0
+o+acc +cover=sbfec+tinyalu(rtl).
+R34
+ntop_optimized
+OL;O;10.5;63
